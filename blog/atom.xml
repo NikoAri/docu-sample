@@ -88,8 +88,10 @@ Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target
         <id>https://nikoari.github.io/docu-sample/blog/first-blog-post</id>
         <link href="https://nikoari.github.io/docu-sample/blog/first-blog-post"/>
         <updated>2019-05-28T00:00:00.000Z</updated>
-        <summary type="html"><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></summary>
-        <content type="html"><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
+        <summary type="html"><![CDATA[Adding Map:]]></summary>
+        <content type="html"><![CDATA[<p>Adding Map:</p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10760.36408081704!2d-122.3367729!3d47.6049198!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54906ab1c8d8c85b%3A0x55def77a2799b0b5!2sBookstore%20Bar%20%26%20Cafe!5e0!3m2!1sen!2sus!4v1710537253222!5m2!1sen!2sus"></iframe>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content>
         <author>
             <name>Gao Wei</name>
             <uri>https://github.com/wgao19</uri>

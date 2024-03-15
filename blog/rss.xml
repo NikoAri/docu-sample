@@ -73,8 +73,10 @@ Blog posts support <a href="https://docusaurus.io/docs/markdown-features" target
             <link>https://nikoari.github.io/docu-sample/blog/first-blog-post</link>
             <guid>https://nikoari.github.io/docu-sample/blog/first-blog-post</guid>
             <pubDate>Tue, 28 May 2019 00:00:00 GMT</pubDate>
-            <description><![CDATA[Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet]]></description>
-            <content:encoded><![CDATA[<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
+            <description><![CDATA[Adding Map:]]></description>
+            <content:encoded><![CDATA[<p>Adding Map:</p>
+<iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10760.36408081704!2d-122.3367729!3d47.6049198!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x54906ab1c8d8c85b%3A0x55def77a2799b0b5!2sBookstore%20Bar%20%26%20Cafe!5e0!3m2!1sen!2sus!4v1710537253222!5m2!1sen!2sus"></iframe>
+<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque elementum dignissim ultricies. Fusce rhoncus ipsum tempor eros aliquam consequat. Lorem ipsum dolor sit amet</p>]]></content:encoded>
             <category>hola</category>
             <category>docusaurus</category>
         </item>
